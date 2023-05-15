@@ -3,6 +3,7 @@
  
  
  ***********Steps to generate QR Code Using the following application*****************
+ 
  1.Run the program
  ![Qr_1](https://github.com/Jaya-sys/Student_deatils_qr_generator/assets/65943514/dc16057f-822a-439a-8d03-2cf1061cff28)
  2. Enter the details
@@ -12,6 +13,7 @@
  Congratulations you have successfully generated your QR code.
  
  ***************Additional Feature ***************************
+ 
  You can clear the values as per your needs
  
  Click on the clear button to clear text from textfield
