@@ -18,3 +18,7 @@
  
  Click on the clear button to clear text from textfield
 ![qr3](https://github.com/Jaya-sys/Student_deatils_qr_generator/assets/65943514/e48586ca-bdc9-477d-a6a2-29d9bf7fd3fc)
+
+Additionally, the qr code has been saved to a directory.
+![qr_3](https://github.com/Jaya-sys/Student_deatils_qr_generator/assets/65943514/6ea0fd7a-c993-48cb-a296-fe945376b770)
+
